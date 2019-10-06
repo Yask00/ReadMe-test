@@ -1,3 +1,5 @@
+GOAL: list with examples for different readme markdowns
+
 ### Instructions to start the project
 #### **Start the network**
 - [x] go to `/network` folder
